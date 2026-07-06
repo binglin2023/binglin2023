@@ -1,17 +1,42 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm 简仁鑫</h1>
+<h3 align="center">Frontend Developer @ 易控智驾 | Vue · TypeScript · Vite</h3>
 
-<!--
-**binglin2023/binglin2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=binglin2023&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍💻 About Me
+
+- 🔭 Currently working at **易控智驾 (Eacon)** — building autonomous mining solutions
+- 🌱 Deep diving into **Vue 3 · TypeScript · Vite · AI-assisted development**
+- 🛠️ Daily tools: Cursor · Codex CLI · pnpm · iTerm2
+- 📫 Reach me: **binglin0610@gmail.com**
+- ⚡ From Windows → macOS, still getting used to those `Cmd` keys 🫠
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
+  <img src="https://img.shields.io/badge/Pinia-35495E?style=for-the-badge&logo=pinia&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=binglin2023&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binglin2023&layout=compact&theme=dark&hide_border=true" />
+</p>
 
