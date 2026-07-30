@@ -36,6 +36,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-
+  <img src='./08-running.gif' width='192'>
 </p>
 
