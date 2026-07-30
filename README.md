@@ -12,7 +12,7 @@
 - 🔭 Currently working at **易控智驾 (Eacon)** — building autonomous mining solutions
 - 🌱 Deep diving into **Vue 3 · TypeScript · Vite · AI-assisted development**
 - 🛠️ Daily tools: Cursor · Codex CLI · pnpm · iTerm2
-- 📫 Reach me: **binglin0610@gmail.com**
+- 📫 Reach me: **binglin0610@gmail.com** **jianrenxin@eacon.com**
 - ⚡ From Windows → macOS, still getting used to those `Cmd` keys 🫠
 
 ---
