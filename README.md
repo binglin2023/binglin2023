@@ -11,7 +11,7 @@
 
 - 🔭 Currently working at **易控智驾 (Eacon)** — building autonomous mining solutions
 - 🌱 Deep diving into **Vue 3 · TypeScript · Vite · AI-assisted development**
-- 🛠️ Daily tools: · Codex · pnpm · iTerm2 · 易控小龙虾🦞
+- 🛠️ Daily tools: · Codex CLI· npm · iTerm2 · 易控小龙虾🦞 · 飞书
 - 📫 Reach me: **binglin0610@gmail.com** **jianrenxin@eacon.com**
 - ⚡ From Windows → macOS, still getting used to those `Cmd` keys 🫠
 
